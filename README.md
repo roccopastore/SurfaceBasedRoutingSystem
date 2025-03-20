@@ -7,4 +7,4 @@ The /Client folder contains the Android App. It can be used by an user to select
 
 The script randomforest.py is the Python supervised algorithm which classifies the points found during the data collection phase in good, bad and very bad classes. It is based on an unsupervised initial classification.
 
-![diagrammaSecondaParte (2)](https://github.com/stradivarius/RoadSurfaceBasedRouting4Cyclists/assets/44893230/513038a9-8011-46d5-807b-15b4da0ffcbd)
+![diagrammaSecondaParte](https://github.com/roccopastore/SurfaceBasedRoutingSystem/blob/main/Images/diagrammaSecondaParte.png)
