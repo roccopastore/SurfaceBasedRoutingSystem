@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tracker">
+
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_tracker"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/tracker_logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tracker"
+        android:largeHeap="true"
+        android:hardwareAccelerated="false">
+        <activity
+            android:name=".PreferencesActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_preferences" />
+        <activity
+            android:name=".Stats"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".RidesRecord"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service
+            android:name="com.example.tracker.ActivityRecognitionService"
+            android:enabled="true" >
+        </service>
+        <service
+            android:name="com.example.tracker.ActivityHandlerIntentService"
+            android:enabled="true" >
+        </service>
+        <service android:name="com.example.tracker.MyService"/>
+    </application>
+
+</manifest>

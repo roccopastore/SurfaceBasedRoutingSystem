@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="0,1">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/headerStart"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center"
+                android:text="Starting point"
+                android:textAllCaps="true"
+                android:textColor="@color/personalOrange"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/headerStop"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="arrival point"
+                android:textAllCaps="true"
+                android:textColor="@color/personalOrange"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="0,1">
+
+            <TextView
+                android:id="@+id/startText"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/stopText"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textColor="#000000" />
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/headerSpeed"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="average speed"
+        android:textAllCaps="true"
+        android:textColor="@color/personalOrange"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/speedText"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/headerAsphalt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="asphalt irregularities detected"
+        android:textAllCaps="true"
+        android:textColor="@color/personalOrange"
+        android:textStyle="bold" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="0,1">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/headerAsp1"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text="not serious"
+                android:textAllCaps="true"
+                android:textColor="@color/personalOrange"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/headerAsp2"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text="serious"
+                android:textAllCaps="true"
+                android:textColor="@color/personalOrange"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="0,1">
+
+            <TextView
+                android:id="@+id/asp1Text"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/asp2Text"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textColor="#000000" />
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/headerRating"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="visual assessment of the route"
+        android:textAllCaps="true"
+        android:textColor="@color/lightblue"
+        android:textStyle="bold" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:numStars="5"
+        android:progressTint="@color/lightblue" />
+
+
+</LinearLayout>

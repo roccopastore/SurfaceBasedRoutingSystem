@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.extension:maps-style:10.9.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/68db4a5d1e563ed94c811178ec0a1a60/transformed/jetified-maps-style-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68db4a5d1e563ed94c811178ec0a1a60/transformed/jetified-maps-style-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.extension/maps-style/10.9.0/ad42781a3137eae0d72182c9d7486b7896d54246/maps-style-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.extension/maps-style/10.9.0/31284ba60986bd312f331187393126affb51a107/maps-style-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.plugin:maps-animation:10.9.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6505d9c8a9ee542225345d9afbb2604f/transformed/jetified-maps-animation-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6505d9c8a9ee542225345d9afbb2604f/transformed/jetified-maps-animation-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-animation/10.9.0/e7a3cf17ec454258fb8c1d82a2528bc6c55b74b8/maps-animation-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-animation/10.9.0/6bcb77aefab4d652877e86660b320b9a38f2034a/maps-animation-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

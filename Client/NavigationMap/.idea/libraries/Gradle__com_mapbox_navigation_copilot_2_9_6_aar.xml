@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.navigation:copilot:2.9.6@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/be13e55c651920fa3089fecf90b197d2/transformed/jetified-copilot-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be13e55c651920fa3089fecf90b197d2/transformed/jetified-copilot-2.9.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/copilot/2.9.6/e3434ed2931739bdd0c32dd91d5e929748d2359/copilot-2.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/copilot/2.9.6/1652f34d353d2f81f1d16d8739d717c04f0b47c/copilot-2.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

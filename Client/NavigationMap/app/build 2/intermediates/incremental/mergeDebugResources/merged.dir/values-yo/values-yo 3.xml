@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <plurals name="mapbox_number_of_days" ns1:ignore="MissingTranslation">
+        <item quantity="other">ọjọ</item>
+    </plurals>
+    <string name="mapbox_end_navigation">Muu Lilọ kiri</string>
+    <string name="mapbox_eta_format" ns1:ignore="MissingTranslation">%s ETA</string>
+    <string name="mapbox_muted">Muted</string>
+    <string name="mapbox_route_overview" ns1:ignore="MissingTranslation">Akopọ</string>
+    <string name="mapbox_unit_feet" ns1:ignore="MissingTranslation">ft</string>
+    <string name="mapbox_unit_hr" ns1:ignore="MissingTranslation">hr</string>
+    <string name="mapbox_unit_kilometers">km</string>
+    <string name="mapbox_unit_meters">m</string>
+    <string name="mapbox_unit_miles">mi</string>
+    <string name="mapbox_unit_min" ns1:ignore="MissingTranslation">min</string>
+    <string name="mapbox_unmuted">Unmuted</string>
+</resources>

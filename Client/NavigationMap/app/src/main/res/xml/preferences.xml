@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <DropDownPreference
+        app:key="pref_navigation"
+        app:title="Preferenze di navigazione"
+        app:summary="Seleziona la tua preferenza sul calcolo del percorso"
+        app:entries="@array/pref_navigation"
+        app:entryValues="@array/pref_navigation_values"
+        app:defaultValue="0">
+
+    </DropDownPreference>
+
+
+</PreferenceScreen>

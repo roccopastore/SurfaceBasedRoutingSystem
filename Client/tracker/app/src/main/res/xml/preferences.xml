@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        app:key="background"
+        app:title="Background operations"
+        app:defaultValue="true"
+        app:summary="Allow the app to work in the background"/>
+
+
+</PreferenceScreen>

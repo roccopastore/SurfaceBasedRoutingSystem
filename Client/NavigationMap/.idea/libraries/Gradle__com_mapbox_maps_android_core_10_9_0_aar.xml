@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.maps:android-core:10.9.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0dbbe971e0a564f7ebc8dd115e55dd62/transformed/jetified-android-core-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0dbbe971e0a564f7ebc8dd115e55dd62/transformed/jetified-android-core-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.maps/android-core/10.9.0/3e40c4ba99224175b28f3c179bd09c1ece75407b/android-core-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.maps/android-core/10.9.0/6b7c05d2f22ed5e05774afb2f5042fb6c2cb8067/android-core-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

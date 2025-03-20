@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.navigation:ui-maneuver:2.9.6@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0998c4559526ec0e356082f3eb54b71f/transformed/jetified-ui-maneuver-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0998c4559526ec0e356082f3eb54b71f/transformed/jetified-ui-maneuver-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0998c4559526ec0e356082f3eb54b71f/transformed/jetified-ui-maneuver-2.9.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/ui-maneuver/2.9.6/49f61f68ac03bffe3886f76bee0f45e391bb04ee/ui-maneuver-2.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/ui-maneuver/2.9.6/e220c8cfbd55587a671624413f9cf242d0bdbcf8/ui-maneuver-2.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

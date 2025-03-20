@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.plugin:maps-viewport:10.9.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/653ddf34a7e56f5716f7bf46e979be0b/transformed/jetified-maps-viewport-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/653ddf34a7e56f5716f7bf46e979be0b/transformed/jetified-maps-viewport-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-viewport/10.9.0/1e812953fc4f7d9477c25fe8115fa238b83b693d/maps-viewport-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-viewport/10.9.0/e3071440323313c50edc375e51da8f6f6d2e973d/maps-viewport-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
